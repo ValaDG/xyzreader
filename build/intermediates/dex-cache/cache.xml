@@ -26,7 +26,7 @@
         jar="C:\Users\Valerio\Desktop\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="e36666acc33fdca94193792d49d01af18aeec5c2">
+        sha1="bb581cd9979eea09b0ddbdcace1777e460d7d2d0">
         <dex dex="C:\Users\Valerio\Desktop\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f161d5d06c4f734cd598c91c3731d50c0db69d1\classes.dex" />
     </item>
     <item
@@ -103,7 +103,7 @@
         jar="C:\Users\Valerio\Desktop\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="671e3eb3390b09532e47b7e05a1fe876c9fcef16">
+        sha1="d157247baee75c4383c3ec147869004bdb3dff6b">
         <dex dex="C:\Users\Valerio\Desktop\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_127aa8aee5431d5a8c16ab4989f159226fb9c4a5\classes.dex" />
     </item>
     <item
