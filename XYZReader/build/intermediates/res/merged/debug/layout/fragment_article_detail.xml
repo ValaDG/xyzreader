@@ -21,15 +21,15 @@
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
                     android:id="@+id/photo"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:layout_gravity="center_horizontal"
-
-                     />
-
+                    android:scaleType="centerCrop"
+                    android:transitionName="@string/transition"
+                    />
                 <View
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
+                    android:layout_height="305dp"
                     android:background="@drawable/photo_background_protection" />
 
             </FrameLayout>
